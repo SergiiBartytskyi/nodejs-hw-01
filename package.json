@@ -7,7 +7,7 @@
   "scripts": {
     "contacts": "node src/contacts/contacts.js",
     "get-all": "node src/scripts/getAllContacts.js",
-    "yarn": "node src/scripts/generateContacts.js",
+    "generate": "node src/scripts/generateContacts.js",
     "add-one": "node src/scripts/addOneContact.js",
     "count": "node src/scripts/countContacts.js",
     "remove-last": "node src/scripts/removeLastContact.js",
